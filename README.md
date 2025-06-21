@@ -19,7 +19,7 @@ Here’s what you get out of the box with this starter kit:
 - **📧 Email Verification**: Ensure users validate their emails with [Resend](https://resend.com).  
 - **👤 Profile**: A sleek profile screen for updating and viewing user information.  
 
----
+--
 
 ### 3. Installation ⚡  
 Ready to dive in? Follow these steps to get started:  
